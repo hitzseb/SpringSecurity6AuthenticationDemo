@@ -1,7 +1,7 @@
-package com.hitzseb.jwtSpringSecurity6demo.service;
+package com.hitzseb.authentication.service;
 
-import com.hitzseb.jwtSpringSecurity6demo.model.Token;
-import com.hitzseb.jwtSpringSecurity6demo.repository.TokenRepository;
+import com.hitzseb.authentication.model.Token;
+import com.hitzseb.authentication.repository.TokenRepository;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;

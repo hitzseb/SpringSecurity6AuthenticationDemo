@@ -1,4 +1,4 @@
-package com.hitzseb.jwtSpringSecurity6demo.Exceptions;
+package com.hitzseb.authentication.service;
 
 public class UserAlreadyExistsException extends RuntimeException {
     public UserAlreadyExistsException(String message) {
